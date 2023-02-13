@@ -1,0 +1,16 @@
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.csproj.AssemblyReference.cache
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.csproj.SuggestedBindingRedirects.cache
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.Properties.Resources.resources
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.csproj.GenerateResource.cache
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.csproj.CoreCompileInputs.cache
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.Content.Home.resources
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.Content.Layout.resources
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.Login.resources
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\bin\Debug\Try_SPP_Alvito.exe.config
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\bin\Debug\Try_SPP_Alvito.exe
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\bin\Debug\Try_SPP_Alvito.pdb
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.exe
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.pdb
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.Content.Petugas.resources
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.Content.EditContent.EditPetugas.resources
+C:\Users\SMKN1PONOROGO\source\repos\Try_SPP_Alvito\Try_SPP_Alvito\obj\Debug\Try_SPP_Alvito.Content.Siswa.resources
